@@ -1,4 +1,4 @@
 # Create a new file (example)
 echo "Initial content" > example.txt
-git add example.txt
-git commit -m "Initial commit"
+git add343 example.txt
+git 3434 -m "Initial commit"
