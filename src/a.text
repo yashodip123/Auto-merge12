@@ -1,4 +1,0 @@
-echo "# Modified in feature branch
-echo \"Feature branch content\" > example.txt
-git add example.txt
-git commit -m \"Feature branch commit\"" > a.text
